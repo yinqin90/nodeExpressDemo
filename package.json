@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/yinqin90/nodeExpressDemo#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "require-directory": "^2.1.1"
   }
 }
